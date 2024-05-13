@@ -20,8 +20,9 @@ Vous trouverez un accès aux productions et à leur documentation, mais aussi un
 - **VMware** : Employé pour simuler des environnements de serveur ou pour tester l'application dans diverses conditions.
 - **GitLab** : Utilisé pour le versionnage du code et la collaboration sur le projet, facilitant la gestion des versions et des contributions des développeurs.
 
-## Installation
+## Démarrer et tester l'application
 
-Pour installer et lancer le projet localement, suivez les étapes ci-dessous : [Instructions d'installation et de configuration]
+- Pour démarrer l'application référez-vous au fichier "demarrer_application".
+- Pour tester l'application après l'avoir démarrer, vous trouverez un tutoriel en ouvrant le fichier "tester_application".
 
 
