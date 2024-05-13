@@ -23,6 +23,6 @@ Vous trouverez un accès aux productions et à leur documentation, mais aussi un
 ## Démarrer et tester l'application
 
 - Pour démarrer l'application référez-vous au fichier "demarrer_application".
-- Pour tester l'application après l'avoir démarrer, vous trouverez un tutoriel en ouvrant le fichier "tester_application".
+- Pour tester l'application après l'avoir démarrée, vous trouverez un tutoriel en ouvrant le fichier "tester_application".
 
 
